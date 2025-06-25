@@ -97,9 +97,9 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-	// Blinky example
-	HAL_GPIO_TogglePin(GREEN_LED_GPIO_Port, GREEN_LED_Pin);
-	HAL_Delay(500);
+    // Blinky example
+    HAL_GPIO_TogglePin(GREEN_LED_GPIO_Port, GREEN_LED_Pin);
+    HAL_Delay(500);
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */

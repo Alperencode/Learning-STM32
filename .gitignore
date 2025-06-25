@@ -96,3 +96,6 @@ dkms.conf
 
 # Libraries
 /lib
+
+# Metadata
+.metadata/
